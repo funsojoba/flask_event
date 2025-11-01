@@ -1,0 +1,13 @@
+flask
+flask-sqlalchemy
+psycopg2-binary
+alembic
+celery
+redis
+pytest
+geoalchemy2
+flasgger
+flask-migrate
+marshmallow
+Flask-JWT-Extended==4.6.0
+passlib[bcrypt]==1.7.4
